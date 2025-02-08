@@ -1,15 +1,24 @@
 # OtelRezervasyonSistemi
 C# dilinde N katmanlı mimari ve OOP prensipleri kullanılarak oluşturulmuş MySql tabanlı bir otel rezervasyon sistemidir. Kullanıcı dostu arayüzüyle otel yöneticilerinin kullanım amacına uygun olarak tasarlanmıştır.
+
 # Projenin Videolu Anlatımı
 https://youtu.be/TNsQQfmFT0E?si=U5lXos44ocQbkFjE
+
 # DİYAGRAMLAR
-EER DİYAGRAMI
+
+1- ER DİYAGRAMI
 
 ![Image](https://github.com/user-attachments/assets/8ce71bfd-aed5-4f1f-9532-47eb3c024567)
 
-SINIF DİYAGRAMI
 
-USE-CASE DİYAGRAMI
+2- SINIF DİYAGRAMI
+
+
+
+3- USE-CASE DİYAGRAMI
+
+![Image](https://github.com/user-attachments/assets/3d8aacf2-8cc1-4c61-aced-2988053480e7)
+
 
 # PROJEYE AİT GÖRSELLER
 
