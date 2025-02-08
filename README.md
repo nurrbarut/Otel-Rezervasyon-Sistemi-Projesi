@@ -9,4 +9,4 @@ EER DİYAGRAMI
 
 SINIF DİYAGRAMI
 
-![Image](https://github.com/user-attachments/assets/6924ec69-0b9b-48ea-b8b3-22205ac1916e)
+![Image](https://github.com/user-attachments/assets/f1999bc8-f697-4f0f-bce6-0b7c489c0a66)
