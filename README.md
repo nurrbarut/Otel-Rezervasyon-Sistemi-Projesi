@@ -18,7 +18,7 @@ https://youtu.be/TNsQQfmFT0E?si=U5lXos44ocQbkFjE
 
 3- USE-CASE DİYAGRAMI
 
-![Image](https://github.com/user-attachments/assets/c3d8bbc2-2937-44d6-a84d-993e814207b6)
+![Image](https://github.com/user-attachments/assets/3bf77dd2-4cd4-4d95-89ef-f40685c107e8)
 
 
 # PROJEYE AİT GÖRSELLER
