@@ -4,8 +4,7 @@ C# dilinde N katmanlı mimari ve OOP prensipleri kullanılarak oluşturulmuş My
 # Projenin Videolu Anlatımı
 https://youtu.be/TNsQQfmFT0E?si=U5lXos44ocQbkFjE
 
-# DİYAGRAMLARIN BULUNDUĞU DOSYA
-[Diyagramlar (1).docx](https://github.com/user-attachments/files/18721999/Diyagramlar.1.docx)
+# DİYAGRAMLAR
 
 1- ER DİYAGRAMI
 
@@ -14,6 +13,7 @@ https://youtu.be/TNsQQfmFT0E?si=U5lXos44ocQbkFjE
 
 2- SINIF DİYAGRAMI
 
+![Image](https://github.com/user-attachments/assets/a9dc6c15-53d5-4622-9ef3-11d99a6cafd8)
 
 
 3- USE-CASE DİYAGRAMI
